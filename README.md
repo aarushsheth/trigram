@@ -1,2 +1,2 @@
 # trigram
-an autoregressive trigram language model
+given two characters as input, predicts the next
